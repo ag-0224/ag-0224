@@ -8,11 +8,12 @@
  <img src="https://img.shields.io/badge/Java-2C2255?style=flat&logo=eclipseide&logoColor=white">
 </div>
 </div>
+<br>
+
+![Ag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ag-0224&show_icons=true&theme=tokyonight)
 
 <br>
 
-![Ag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choeun01&show_icons=true&theme=tokyonight)
-
-<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choeun8339)](https://solved.ac/choeun8339/)
 
 <br>
